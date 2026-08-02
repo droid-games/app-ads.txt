@@ -1,6 +1,7 @@
 google.com, pub-9597923701256045, DIRECT, f08c47fec0942fa0
 
 chartboost.com, 5858049443150f6cf32fe373, DIRECT
+chartboost.com, 5858049443150f6cf32fe373, DIRECT
 freewheel.tv, 1568907, RESELLER
 lijit.com, 548876, RESELLER, fafdf38b16bf6b2b
 admanmedia.com, 990, RESELLER
